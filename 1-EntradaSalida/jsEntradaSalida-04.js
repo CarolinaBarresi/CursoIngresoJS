@@ -11,5 +11,6 @@ function mostrar()
 	nombre =prompt("Su nombre");
 
 	document.getElementById("txtIdNombre").value = nombre;
+	
 
 }

@@ -47,9 +47,7 @@ function dividir()
 { let numeroUno;
 
 	let numeroDos;
-
 	let dividir;
-
 	numeroUno = parseInt (document.getElementById ("txtIdNumeroUno").value);
 	numeroDos = parseInt (document.getElementById ("txtIdNumeroDos").value);
 	dividir = numeroUno / numeroDos;
